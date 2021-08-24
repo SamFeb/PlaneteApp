@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlaneteAppGreta60</string>
+    <string name="menu_creer">Créer planète</string>
+    <string name="menu_modifier">Modifier planète</string>
+    <string name="menu_supprimer">Supprimer planète</string>
+    <string name="planete_create_nom_label">Nom</string>
+    <string name="planete_create_submit_btn_label">Créer planète</string>
+    <string name="planete_create_distance_label">Distance en Gm</string>
+</resources>
